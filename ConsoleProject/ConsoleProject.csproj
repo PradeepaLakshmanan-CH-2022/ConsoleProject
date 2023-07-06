@@ -7,7 +7,7 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
   <ItemGroup>
-  <None Include="C:\ConsoleApplicationRepository\ConsoleProject\appspec.yml" CopyToOutputDirectory="PreserveNewest" />
+  <None Include="C:\ConsoleApplicationRepository\ConsoleProject\ConsoleProject\appspec.yml" CopyToOutputDirectory="PreserveNewest" />
 </ItemGroup>
 
 
