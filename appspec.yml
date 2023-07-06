@@ -1,7 +1,7 @@
 version: 0.0
 os: windows
 files:
-  -  source: \ConsoleProject\ConsoleProject.csproj
+  -  source: \ConsoleProject\bin\Release\*.dll
      destination: C:\Hello
 
 hooks:
