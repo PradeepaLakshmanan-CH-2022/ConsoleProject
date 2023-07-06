@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Pradeepa.lakshmanan\\source\\repos\\ConsoleProject\\ConsoleProjectTest\\ConsoleProjectTest.csproj": {}
+    "C:\\ConsoleApplicationRepository\\ConsoleProject\\ConsoleProjectTest\\ConsoleProjectTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Pradeepa.lakshmanan\\source\\repos\\ConsoleProject\\ConsoleProjectTest\\ConsoleProjectTest.csproj": {
+    "C:\\ConsoleApplicationRepository\\ConsoleProject\\ConsoleProjectTest\\ConsoleProjectTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Pradeepa.lakshmanan\\source\\repos\\ConsoleProject\\ConsoleProjectTest\\ConsoleProjectTest.csproj",
+        "projectUniqueName": "C:\\ConsoleApplicationRepository\\ConsoleProject\\ConsoleProjectTest\\ConsoleProjectTest.csproj",
         "projectName": "ConsoleProjectTest",
-        "projectPath": "C:\\Users\\Pradeepa.lakshmanan\\source\\repos\\ConsoleProject\\ConsoleProjectTest\\ConsoleProjectTest.csproj",
+        "projectPath": "C:\\ConsoleApplicationRepository\\ConsoleProject\\ConsoleProjectTest\\ConsoleProjectTest.csproj",
         "packagesPath": "C:\\Users\\Pradeepa.lakshmanan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Pradeepa.lakshmanan\\source\\repos\\ConsoleProject\\ConsoleProjectTest\\obj\\",
+        "outputPath": "C:\\ConsoleApplicationRepository\\ConsoleProject\\ConsoleProjectTest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Pradeepa.lakshmanan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Pradeepa.lakshmanan\\source\\repos\\ConsoleProject\\ConsoleProject\\ConsoleProject.csproj": {
-                "projectPath": "C:\\Users\\Pradeepa.lakshmanan\\source\\repos\\ConsoleProject\\ConsoleProject\\ConsoleProject.csproj"
+              "C:\\ConsoleApplicationRepository\\ConsoleProject\\ConsoleProject\\ConsoleProject.csproj": {
+                "projectPath": "C:\\ConsoleApplicationRepository\\ConsoleProject\\ConsoleProject\\ConsoleProject.csproj"
               }
             }
           }
@@ -81,14 +81,14 @@
         }
       }
     },
-    "C:\\Users\\Pradeepa.lakshmanan\\source\\repos\\ConsoleProject\\ConsoleProject\\ConsoleProject.csproj": {
+    "C:\\ConsoleApplicationRepository\\ConsoleProject\\ConsoleProject\\ConsoleProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Pradeepa.lakshmanan\\source\\repos\\ConsoleProject\\ConsoleProject\\ConsoleProject.csproj",
+        "projectUniqueName": "C:\\ConsoleApplicationRepository\\ConsoleProject\\ConsoleProject\\ConsoleProject.csproj",
         "projectName": "ConsoleProject",
-        "projectPath": "C:\\Users\\Pradeepa.lakshmanan\\source\\repos\\ConsoleProject\\ConsoleProject\\ConsoleProject.csproj",
+        "projectPath": "C:\\ConsoleApplicationRepository\\ConsoleProject\\ConsoleProject\\ConsoleProject.csproj",
         "packagesPath": "C:\\Users\\Pradeepa.lakshmanan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Pradeepa.lakshmanan\\source\\repos\\ConsoleProject\\ConsoleProject\\obj\\",
+        "outputPath": "C:\\ConsoleApplicationRepository\\ConsoleProject\\ConsoleProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Pradeepa.lakshmanan\\AppData\\Roaming\\NuGet\\NuGet.Config",
